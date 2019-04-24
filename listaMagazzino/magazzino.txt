@@ -1,0 +1,12 @@
+fenicottero 15
+banana 30
+cacca 35
+hiiii 50
+foooo 45
+giiii 0
+ttoooo 60
+francesca 5
+fagiolo 2
+cipolla 40
+qualcosa 10
+niente 7

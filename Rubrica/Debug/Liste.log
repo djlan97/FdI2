@@ -1,0 +1,12 @@
+﻿Compilazione avviata 20/08/2017 16:29:56.
+     1>Progetto "C:\Users\Dylan\Desktop\Rubrica\Liste.vcxproj" sul nodo 2 (destinazioni: Build).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Dylan\Desktop\Rubrica\Debug\Liste.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Dylan\Desktop\Rubrica\Debug\Liste.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Dylan\Desktop\Rubrica\Debug\Liste.lib" /MACHINE:X86 Debug\element.obj
+         Debug\list.obj
+         Debug\main.obj
+         Liste.vcxproj -> C:\Users\Dylan\Desktop\Rubrica\Debug\Liste.exe
+     1>Compilazione progetto "C:\Users\Dylan\Desktop\Rubrica\Liste.vcxproj" (destinazioni: Build) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:01.06

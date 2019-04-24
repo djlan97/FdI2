@@ -1,0 +1,12 @@
+﻿Compilazione avviata 27/05/2017 19:07:13.
+     1>Progetto "C:\Users\Dylan\Documents\Visual Studio 2013\Projects\Fondamenti 2\Liste\Liste.vcxproj" sul nodo 2 (destinazioni: Build).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Dylan\Documents\Visual Studio 2013\Projects\Fondamenti 2\Liste\Debug\Liste.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Dylan\Documents\Visual Studio 2013\Projects\Fondamenti 2\Liste\Debug\Liste.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Dylan\Documents\Visual Studio 2013\Projects\Fondamenti 2\Liste\Debug\Liste.lib" /MACHINE:X86 Debug\element.obj
+         Debug\list.obj
+         Debug\main.obj
+         Liste.vcxproj -> C:\Users\Dylan\Documents\Visual Studio 2013\Projects\Fondamenti 2\Liste\Debug\Liste.exe
+     1>Compilazione progetto "C:\Users\Dylan\Documents\Visual Studio 2013\Projects\Fondamenti 2\Liste\Liste.vcxproj" (destinazioni: Build) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:00.61

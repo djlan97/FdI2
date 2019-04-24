@@ -1,0 +1,5 @@
+2, Tara
+1, Pietra
+2, Casa
+1, Gioco
+4, Albero
